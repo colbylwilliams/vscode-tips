@@ -23,7 +23,7 @@ If you're interested in doing the same (or something in between), check out [`/d
 
 I've found that a couple more settings will reduce the noise in your logs when developing locally:
 
-```json
+```jsonc
 //settings.json
 {
   "csharp.debug.logging.moduleLoad": false,
@@ -39,7 +39,7 @@ I'm not trying to tell you how to live your life. But here are some settings tha
 
 Here are some **Explorer** settings that I find useful for .NET:
 
-```json
+```jsonc
 // settings.json
 {
   "explorer.fileNesting.enabled": true,
@@ -65,7 +65,7 @@ _The new C# DevKit has a pretty nice Explorer, but since I bounce around to diff
 
 ### Files settings
 
-```json
+```jsonc
 // settings.json
 {
   "files.associations": {
@@ -91,7 +91,7 @@ _The new C# DevKit has a pretty nice Explorer, but since I bounce around to diff
 
 I've found that all of the tool trying to help me type my next line of code, end up competing and creating a poor experience. The editor settings below are just a subset of my editor settings, but these are the settings that I've found make my active coding experience most efficient (i.e. I can intuitively accept suggestions from intellicode or copilot):
 
-```json
+```jsonc
 {
   "editor.emptySelectionClipboard": false, // why the hell is this even a thing
   "editor.acceptSuggestionOnCommitCharacter": false,

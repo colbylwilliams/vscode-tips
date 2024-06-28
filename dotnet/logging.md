@@ -32,7 +32,7 @@ And we get much less! ...exactly half as much :nerd_face:
 
 So... how bout color? Color would make it a hell of a lot easier to find that error I decided to log earlier (instead of fix), and I recently just so happen to come across [this little gem][dotnet-env-var-enable-color] :heart_eyes:
 
-```json
+```jsonc
 "DOTNET_SYSTEM_CONSOLE_ALLOW_ANSI_COLOR_REDIRECTION": "true"
 ```
 
@@ -67,7 +67,7 @@ Finally, if you're the type that selects **_compact_** mode in for your Teams an
 
 I've found that a couple more settings will reduce the noise in your logs when developing locally:
 
-```json
+```jsonc
 //.vscode/settings.json
 {
   "csharp.debug.logging.moduleLoad": false,

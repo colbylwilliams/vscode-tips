@@ -7,6 +7,8 @@ Useful tips & tricks for Visual Studio Code. Mostly for me, but public so others
 
 ## .NET Logging
 
+> Full set of tips at [`/dotnet/logging.md`](/dotnet/logging.md)
+
 In vs code, [debug provider][dotnet-logging-debug-provider] and the [console provider][dotnet-logging-console-provider] both log to the [debug console][vscode-debug-console]. This ends up duplicating all the logs, in different formats, which makes it difficult to read and understand. To make things worse they're not [in color](/dotnet/logging.md#add-some-color) :roll_eyes:.
 
 I've spent way too much time figuring out how to go from this:

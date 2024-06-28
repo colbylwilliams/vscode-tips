@@ -35,7 +35,7 @@ I've found that a couple more settings will reduce the noise in your logs when d
 
 I'm not trying to tell you how to live your life. But here are some settings that I've found make life more delightful _(and more importantly, get the stuff that I don't care about, out of my way)_.
 
-### Explorer settings
+### :mag: Explorer settings
 
 Here are some **Explorer** settings that I find useful for .NET:
 
@@ -63,7 +63,7 @@ Here are some **Explorer** settings that I find useful for .NET:
 
 _The new C# DevKit has a pretty nice Explorer, but since I bounce around to different programming languages (and I've taken the time to set up vscode's Explorer just the way I like it), I tend to use vscode's Explorer._
 
-### Files settings
+### :file_cabinet: Files settings
 
 ```jsonc
 // settings.json
@@ -87,7 +87,7 @@ _The new C# DevKit has a pretty nice Explorer, but since I bounce around to diff
 }
 ```
 
-### Editor settings
+### :pencil2: Editor settings
 
 I've found that all of the tool trying to help me type my next line of code, end up competing and creating a poor experience. The editor settings below are just a subset of my editor settings, but these are the settings that I've found make my active coding experience most efficient (i.e. I can intuitively accept suggestions from intellicode or copilot):
 
@@ -113,7 +113,7 @@ I've found that all of the tool trying to help me type my next line of code, end
 }
 ```
 
-#### Rulers
+#### :straight_ruler: Rulers
 
 I write a lot of code that ends up on GitHub; prototypes, samples, customer development, etc.<br/>
 On github.com depending on settings this sentence should be just about full-with across the readme without wrapping.

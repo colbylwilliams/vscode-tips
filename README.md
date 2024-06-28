@@ -2,7 +2,7 @@
 
 Useful tips & tricks for Visual Studio Code. Mostly for me, but public so others might enjoy.
 
-> [!Warning]
+> [!Important]
 > I'm on a mac, results may vary
 
 ## .NET Logging

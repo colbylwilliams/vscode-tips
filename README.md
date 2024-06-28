@@ -116,12 +116,14 @@ I've found that all of the tool trying to help me type my next line of code, end
 #### Rulers
 
 I write a lot of code that ends up on GitHub; prototypes, samples, customer development, etc.<br/>
-As such, depending on th project, it's really important that the code I produce is written with readability in mind.<br/>
+On github.com depending on settings this sentence should be just about full-with across the readme without wrapping.
 
-```txt
-I write a lot of code that ends up on GitHub: prototypes, samples, customer development, etc.
-As such, depending on th project, it's really important that the code I produce is written with readability in mind.
+```yaml
+# and the first line just fits in a code block
+I write a lot of code that ends up on GitHub; prototypes, samples, customer development, etc.
 ```
+
+This is what these rulers are for. They represent (approx) widths of different renderings on github.com (gists, readme, classic code view, etc.). You'll may need to change the color.
 
 ```jsonc
 // settings.json

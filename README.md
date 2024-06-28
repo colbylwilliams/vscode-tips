@@ -68,8 +68,8 @@ _The new C# DevKit has a pretty nice Explorer, but since I bounce around to diff
 ```jsonc
 // settings.json
 {
+  // see-ya squigglies
   "files.associations": {
-    // see-ya squigglies
     "appsettings.*.json": "jsonc",
     "local.settings.json": "jsonc",
     "launchSettings.json": "jsonc"

@@ -125,7 +125,7 @@ As such, depending on th project, it is important that the code I produce is wri
 You may say that the same is true for all code, which is fair, but in my case specifically, readability on GitHub.com is a top priority.
 ```
 
-```json
+```jsonc
 // settings.json
 {
   "editor.rulers": [

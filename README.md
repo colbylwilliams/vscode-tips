@@ -116,10 +116,14 @@ I've found that all of the tool trying to help me type my next line of code, end
 #### Rulers
 
 I write a lot of code that ends up on GitHub (prototypes, samples, customer co-development, etc.).
+As such, depending on th project, it is important that the code I produce is written with readability in mind.
+You may say that the same is true for all code, which is fair, but in my case specifically, readability on GitHub.com is a top priority.
 
-As such it's important that the code I produce is written with readability in mind. For example, depending on<br/>the
-
-is easy to consume on references open source projects, or code that customers will use , or
+```sh
+I write a lot of code that ends up on GitHub (prototypes, samples, customer co-development, etc.).
+As such, depending on th project, it is important that the code I produce is written with readability in mind.
+You may say that the same is true for all code, which is fair, but in my case specifically, readability on GitHub.com is a top priority.
+```
 
 ```json
 // settings.json

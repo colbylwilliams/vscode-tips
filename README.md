@@ -119,7 +119,7 @@ I write a lot of code that ends up on GitHub (prototypes, samples, customer code
 As such, depending on th project, it is important that the code I produce is written with readability in mind.<br/>
 You may say that the same is true for all code, which is fair, but in my case specifically, readability on GitHub.com is a top priority.<br/>
 
-```py
+```txt
 I write a lot of code that ends up on GitHub (prototypes, samples, customer codevelopment, etc.)
 As such, depending on th project, it is important that the code I produce is written with readability in mind.
 You may say that the same is true for all code, which is fair, but in my case specifically, readability on GitHub.com is a top priority.
